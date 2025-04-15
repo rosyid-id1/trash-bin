@@ -1,0 +1,2 @@
+# trash-bin
+trash data
